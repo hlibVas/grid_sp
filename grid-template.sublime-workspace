@@ -1,0 +1,1388 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ove",
+				"overflow-y\tproperty"
+			],
+			[
+				"ale",
+				"align-self"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"he",
+				"header/"
+			],
+			[
+				"jus",
+				"justify-content\t(.csscomb.json)"
+			],
+			[
+				"align",
+				"align-items\t(.csscomb.json)"
+			],
+			[
+				"a",
+				"autoprefixer"
+			],
+			[
+				"css",
+				"csscomb"
+			],
+			[
+				"run",
+				"runSequence"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"browse",
+				"browserSync"
+			],
+			[
+				"in",
+				"indicators__item\t(index.html)"
+			],
+			[
+				"pre",
+				"prevButton"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"O",
+				"ObjectProto"
+			],
+			[
+				"pl",
+				"playSlideshow"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"box-s",
+				"box-sizing"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"part",
+				"part3\t(index.html)"
+			],
+			[
+				"clear",
+				"clear"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"box",
+				"box1"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"norma",
+				"normalize.css"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"footer",
+				"footer-top"
+			],
+			[
+				"fonts",
+				"fonts.css"
+			],
+			[
+				"co",
+				"content\t(index.html)"
+			],
+			[
+				"title",
+				"title2\t(index.html)"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"rig",
+				"right-sidebar\t(index.html)"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"table2",
+				"table2-child"
+			],
+			[
+				"table",
+				"table2-child\t(tables.html)"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"foo",
+				"footer-bottom\t(index.html)"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"font",
+				"font-size\t(_main.scss)"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"fon",
+				"font-weight\t(_main.scss)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cle",
+				"clear\t(_footer.scss)"
+			],
+			[
+				"fil",
+				"film__info\t(page.html)"
+			],
+			[
+				"img",
+				"img/"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"visi",
+				"visible-xs"
+			],
+			[
+				"new",
+				"news-item__text\t(index.html)"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"news",
+				"news-item\t(index.html)"
+			],
+			[
+				"for",
+				"form-control\t(index.html)"
+			],
+			[
+				"lef",
+				"left-sidebar\t(index.html)"
+			],
+			[
+				"mar",
+				"margin-15\t(style.css)"
+			],
+			[
+				"head",
+				"header__ads\t(index.html)"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"hea",
+				"header__inner\t(index.html)"
+			],
+			[
+				"footer__f",
+				"footer__fifth\t(index.html)"
+			],
+			[
+				"boo",
+				"bootstrap-theme.min.css"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"colla",
+				"collapsed\t(2-collapse.html)"
+			],
+			[
+				"fo",
+				"font-awesome.css"
+			],
+			[
+				"boot",
+				"bootstrap.css"
+			],
+			[
+				"cont",
+				"container-fluid\t(1-index.html)"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border-box\t(style.css)"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"pr",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"_fo",
+				"_fonts.scss"
+			],
+			[
+				"_m",
+				"_mixins.scss"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hede",
+				"header2\t(index.html)"
+			],
+			[
+				"firs",
+				"first\t(index.html)"
+			],
+			[
+				"heade",
+				"header__menu"
+			],
+			[
+				"clea",
+				"clear\t(style.css)"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"style",
+				"style.less"
+			],
+			[
+				"motokal",
+				"motokalendar-768x1024.jpg\tw:768 h:1024"
+			],
+			[
+				"motok",
+				"motokalendar-800x1280.jpg\tw:800 h:1280"
+			],
+			[
+				"as",
+				"astravel-800x1280.jpg\tw:800 h:1280"
+			],
+			[
+				"kova",
+				"kovalcustom-big3.jpg\tw:740 h:1110"
+			],
+			[
+				"kov",
+				"kovalcustom-big3.jpg\tw:740 h:1110"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"tda",
+				"tDays"
+			],
+			[
+				"blo",
+				"blog-custommoto-480.jpg\tw:843 h:717"
+			],
+			[
+				"motoka",
+				"motokalendar-big2.jpg\tw:608 h:937"
+			],
+			[
+				"po",
+				"portfolio-big1.jpg\tw:1229 h:756"
+			],
+			[
+				"motobas",
+				"motobasar-big1.jpg\tw:1254 h:870"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bxs",
+				"bxsh-n\tbox-shadow: none;"
+			],
+			[
+				"moto",
+				"motobasar.png\tw:400 h:320"
+			],
+			[
+				"ta",
+				"target\tAttr"
+			],
+			[
+				"mo",
+				"motobratva-big.jpg\tw:1280 h:1360"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3851,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 10857,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rmo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 210.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Projects/grid-template",
+		"/F/Projects/grid-template/assets",
+		"/F/Projects/grid-template/assets/css",
+		"/F/Projects/grid-template/assets/img",
+		"/F/Projects/grid-template/assets/scss",
+		"/F/Projects/grid-template/libs",
+		"/F/Projects/grid-template/libs/normalize-scss",
+		"/F/Projects/grid-template/samples"
+	],
+	"file_history":
+	[
+		"/F/Projects/grid-template/package.json",
+		"/F/Projects/grid-template/assets/scss/_common.scss",
+		"/F/Projects/grid-template/gulpfile.js",
+		"/F/Projects/grid-template/assets/scss/style.scss",
+		"/F/Projects/gulp/css/style.min.css",
+		"/F/Projects/gulp/css/style.css",
+		"/F/Projects/gulp/package.json",
+		"/F/Projects/gulp/scss/_common.scss",
+		"/F/Projects/gulp/scss/style.scss",
+		"/F/Projects/gulp/index.html",
+		"/F/Projects/gulp/gulpfile.js",
+		"/F/Projects/gulp/.csscomb.json",
+		"/F/Projects/gulp/main.js",
+		"/F/Projects/gulp/.yarnrc",
+		"/F/Projects/gulp/node_modules/jquery/dist/jquery.js",
+		"/F/Projects/gulp/.bowerrc",
+		"/F/Projects/gulp/scss/header/_header.scss",
+		"/F/Projects/gulp/dest/_common.scss",
+		"/F/Projects/gulp/dest/style.scss",
+		"/F/Projects/gulp/helloworld.js",
+		"/F/Projects/Front-End-Shop-Template/gulpfile.js",
+		"/F/Projects/gulp/assets/css/style.css",
+		"/F/Projects/gulp/assets/index.html",
+		"/F/Projects/gulp/assets/scss/style.scss",
+		"/F/Projects/gulp/assets/scss/_common.scss",
+		"/F/Projects/gulp/assets/css/style.min.css",
+		"/F/Projects/gulp/dest/css/style.min.css",
+		"/F/Projects/Front-End-Shop-Template/scss/style.scss",
+		"/F/Projects/gulp/assets/js/main.js",
+		"/F/Projects/gulp/package-lock.json",
+		"/F/Projects/js/js/main.js",
+		"/F/Projects/js/css/style.css",
+		"/F/Projects/js/index.html",
+		"/C/Users/SkillUP_Student/Desktop/FOMENKO/Projects/js/js/main.js",
+		"/C/Users/SkillUP_Student/Desktop/FOMENKO/Projects/js/gulpfile.js",
+		"/C/Users/SkillUP_Student/Desktop/FOMENKO/Temp/js/gulpfile.js",
+		"/C/Users/SkillUP_Student/Desktop/FOMENKO/Temp/js/compile.bat",
+		"/F/Temp/js/css/style.css",
+		"/F/Temp/js/index.html",
+		"/F/Temp/js/js/main.js",
+		"/F/Temp/js/js/jquery.nicescroll-3.7.6/demo/index.html",
+		"/F/Temp/js/js/jquery.nicescroll-3.7.6/README.md",
+		"/E/Temp/qa/index.html",
+		"/E/Temp/qa/style.css",
+		"/E/index.html",
+		"/F/Temp/index.html",
+		"/F/Temp/page/page1.html",
+		"/F/Temp/style.css",
+		"/F/Курсы/HTML-CSS/site-template/css/style.css",
+		"/F/Курсы/SkillUp - Front-End/15 занятие/scss/style.scss",
+		"/F/Курсы/SkillUp - Front-End/15 занятие/css/style.css",
+		"/F/SublimeText3/Data/Packages/User/ColorHighlighter.sublime-settings",
+		"/F/Temp/index.txt",
+		"/F/Temp/page/page2.html",
+		"/F/Temp/new.html",
+		"/F/Курсы/HTML-CSS/landing-page/css/style.css",
+		"/F/Курсы/HTML-CSS/landing-page/scss/_variables.scss",
+		"/F/Курсы/HTML-CSS/landing-page/scss/_main.scss",
+		"/F/Курсы/HTML-CSS/landing-page/scss/_common.scss",
+		"/F/Курсы/HTML-CSS/kinozal/css/style.css",
+		"/F/Курсы/HTML-CSS/home-work/css/style.css",
+		"/F/Temp/test/page2.html",
+		"/F/Temp/test/page.html",
+		"/F/Курсы/HTML-CSS/home-work/index.html",
+		"/F/Курсы/HTML-CSS/kinozal/css/bootstrap.min.css",
+		"/F/Курсы/HTML-CSS/home-work/css/normalize.css",
+		"/F/Курсы/HTML-CSS/landing-page/index.html",
+		"/F/Курсы/HTML-CSS/site-template/index.html",
+		"/F/Temp",
+		"/G/Temp/index.html",
+		"/G/Temp/dz2/Доп. зад/table2.html",
+		"/G/Temp/style.css",
+		"/G/Курсы/HTML-CSS/site-template/scss/_common.scss",
+		"/G/Курсы/HTML-CSS/landing-page/css/style.css",
+		"/G/Курсы/HTML-CSS/site-template/css/style.css",
+		"/G/Temp/dz2/table.html",
+		"/G/Temp/dz2/css/1.css",
+		"/E/Курсы/HTML-CSS/home-work/css/normalize.css",
+		"/E/Курсы/HTML-CSS/home-work/css/style.css",
+		"/E/Temp/style.css",
+		"/E/Temp/index.html",
+		"/F/Temp/dz2/table.html",
+		"/G/Sublime Text 3/sublime/Новая папка/ind.html",
+		"/G/Sublime Text 3/sublime/ind.html",
+		"/F/index.html",
+		"/G/Temp/table.html",
+		"/G/Temp/DZ_2_2/css/tabl.css",
+		"/G/Temp/DZ_2_2/html/tabl.html",
+		"/G/skill up/index.html",
+		"/F/SublimeText3/Data/Packages/User/PostCSSSorting.sublime-settings",
+		"/F/style.css",
+		"/F/table2.html",
+		"/F/Temp/stylr.css",
+		"/F/Курсы/Skillup/___ Домашние задания/Лидия Тындик/Page/page1.html",
+		"/F/Курсы/Skillup/___ Домашние задания/Лидия Тындик/Index.html",
+		"/F/Temp/page.html",
+		"/D/Google Диск/Курсы/HTML-CSS/landing-page/scss/_footer.scss",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/css/style.css",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/scss/_bootstrap-theming.scss",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/scss/_common.scss",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/scss/_variables.scss",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/index.html",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/scss/_left-sidebar.scss",
+		"/D/SublimeText3/Data/Packages/User/SFTP.sublime-settings",
+		"/D/SublimeText3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/SublimeText3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/SublimeText3/Data/Packages/User/PostCSSSorting.sublime-settings",
+		"/D/My Documents/Курсы/HTML-CSS/Урок 22. Bootstrap Landing/bootstrap/index.html",
+		"/D/My Documents/Курсы/HTML-CSS/kinozal/scss/style.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/css/style.css",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_common.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/style.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/index.html",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_variables.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_header.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_bootstrap-custom.scss",
+		"/D/My Documents/Курсы/HTML-CSS/Урок 23. Bootstrap Landing/bootstrap/index.html",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_footer.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_left-sidebar.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_main.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_media.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_mixins.scss",
+		"/D/My Documents/Курсы/HTML-CSS/___ Домашние задания/bootstrap/scss/_page.scss",
+		"/D/Temp/---/bootstrap/4-masonry.html",
+		"/D/My Documents/Курсы/HTML-CSS/Урок 18. Bootstrap. Thumbnails. Badges. Masonry. Pagination. Alerts. Snippets/bootstrap/4-masonry.html",
+		"/D/My Documents/Курсы/HTML-CSS/Урок 18. Bootstrap. Thumbnails. Badges. Masonry. Pagination. Alerts. Snippets/bootstrap/css/style.css",
+		"/D/Temp/---/bootstrap/css/style.css",
+		"/D/My Documents/Курсы/HTML-CSS/Урок 2. Основы языка разметки документов HTML/files/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require",
+			"('#",
+			"querySelector",
+			"());",
+			"counter",
+			"hasOwnProperty",
+			"console",
+			"    <input id=\"rbx3\" type=\"radio\" name=\"radio\"><label for=\"rbx3\">radiobox 3</label>\n",
+			"h2",
+			"=\"",
+			"</",
+			"html",
+			"page",
+			".container",
+			"header4",
+			"vertical-carousel",
+			"col-sm-6 col-md-3",
+			"header",
+			".main__item h3",
+			"240px",
+			"250px",
+			"1280px",
+			"{\n",
+			"/fonts/",
+			"1990",
+			"></",
+			"Document",
+			"title",
+			"data-aos",
+			"contact",
+			" data-aos",
+			"imp",
+			"bs-example-navbar-collapse-1",
+			"hs-featured-icon",
+			"fonts",
+			"carousel-example-generic",
+			"film__info",
+			"Названи",
+			"col-lg-3 ",
+			"new-film-item",
+			"new-film-item-",
+			"new-film__item",
+			"item__label",
+			"item__image",
+			"new-film-item",
+			"bs-example-navbar-collapse-1",
+			"inverse",
+			"font",
+			"padding: 0 10px 10px 0",
+			"20px",
+			"option",
+			"Windows",
+			"дзен",
+			"Полный",
+			"option",
+			"1982",
+			"данные",
+			"Контактные",
+			"wra",
+			"”",
+			"“",
+			"”",
+			"“",
+			"else",
+			">\n",
+			".content",
+			"post-nav",
+			"content",
+			"widg",
+			"archives-2",
+			"archive",
+			"sidebar .tagcloud",
+			"sidebar",
+			"themeform input[type=\"url\"",
+			"entry.excerpt",
+			"flexslider",
+			"_categories",
+			"flexslider",
+			"%",
+			"tagcloud",
+			"site-title-nav",
+			"site-title-nav-wraper",
+			"site-title-nav",
+			"site-title-nav-wraper",
+			"title",
+			"site-title-nav-wraper",
+			"absolute",
+			"position",
+			"absolute",
+			"\n  position: absolut",
+			"widgets",
+			"-sm-",
+			"lg-w",
+			"extend",
+			"@header-image-url",
+			"@screen-xs-width",
+			"@screen-sm-width",
+			"@screen-md-width",
+			"@screen-lg-width",
+			"@header-xs-height",
+			"@header-sm-height",
+			"@header-md-height",
+			"@header-lg-height",
+			"@transition5",
+			"@transition3",
+			"@opacity-6",
+			"@opacity-5",
+			"@opacity-2",
+			"$opacity-2",
+			"@opacity-1",
+			"@color-main-dark",
+			"@color-main-highlight",
+			"719",
+			"960",
+			"1024",
+			"1299",
+			"261px",
+			"302px",
+			"362px",
+			"400px",
+			".page-title",
+			".black-text",
+			"alx-tab",
+			".black-text",
+			"alx-tab",
+			"opacity: 0.4;",
+			".entry .gallery img:hover {",
+			"flexslider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"item",
+			"/fonts/Font-Awesome/",
+			"navbar-top",
+			"home-features__icon",
+			"../fonts",
+			"header-carousel",
+			"",
+			"top-film-item",
+			"new-film-item__",
+			"new-film-item",
+			"item-label",
+			"item-image",
+			"new-film__item",
+			"\"",
+			"nav-logo",
+			"nav-logo-wraper",
+			"$header-image-url",
+			"$screen-xs-width",
+			"$screen-sm-width",
+			"$screen-md-width",
+			"$screen-lg-width",
+			"$header-xs-height",
+			"$header-sm-height",
+			"$header-md-height",
+			"$header-lg-height",
+			"$@header-lg-height",
+			"$transition5",
+			"$transition3",
+			"$opacity-6",
+			"$opacity-5",
+			"$opacity-2",
+			"$opacity-1",
+			"$color-main-dark",
+			"$color-main-highlight",
+			"@opacity-5",
+			"@opacity-1",
+			"color-main-highlight",
+			"@color-main-dark",
+			"@main-highlight",
+			"eeb500",
+			"dea500",
+			"fec503",
+			"f3ba00"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1814,
+								1814
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1485.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8992,
+								8992
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										8990,
+										8991
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										8887,
+										8888
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/OneDark.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 28863.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.741108888986,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "grid-template.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 733.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\Projects\\front-end\\front-end.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
